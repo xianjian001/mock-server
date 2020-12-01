@@ -1,0 +1,22 @@
+{
+  "name": "mock-serve",
+  "version": "0.1.0",
+  "description": "前端mock-serve，基于node + express",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mockjs": "^1.0.1-beta3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/fighting42tec/mock-serve.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
